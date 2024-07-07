@@ -1,0 +1,14 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "1.0.0"
+  },
+  "x-strapi-config": {
+    "showGeneratedFiles": true
+  },
+  "servers": {},
+  "externalDocs": {},
+  "paths": {},
+  "tags": [],
+  "components": {}
+}
